@@ -1,4 +1,4 @@
-# Tile_Images
+# Tile Images
 Creates tiled images from a base image.
 `python3 app.py [OPTIONS] TARGET_IMAGE`
 ### To Use
